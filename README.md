@@ -6,7 +6,7 @@
 | :--- | :--- |
 | Etienne Maxi Christopher | Chef de projet & Intégration de la scène CoppeliaSim |
 | Souffrant Yara Franceska | Responsable Documentation : Création et rédaction du fichier README.md |
-| Christopher O. Roisin | Amélioration apporter au orojet |
+| Christopher O. Roisin | Amélioration apporter au projet |
 | Paul Lacika Nofawé | Recherche sur le cobot type Franka FR3 |
 | Joseph Estha-Lenie S. | Conclusion |
 
