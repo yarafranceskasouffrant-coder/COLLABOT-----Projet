@@ -7,18 +7,18 @@
 | Etienne Maxi Christopher | Chef de projet & Intégration de la scène CoppeliaSim |
 | Souffrant Yara Franceska | Responsable Documentation : Création et rédaction du fichier README.md |
 | Christopher O. Raisin | Amélioration apporter au projet |
-| Paul Laëka Nafawi | Responsable Présentation du groupe et des composants |
+| Paul Laëka Nafawi | Présentation du Robot UR5|
 | Joseph Estha-Lenie S. | Conclusion |
 
 ## Description du projet
 CollabBot simule une cellule industrielle automatisée et sécurisée où un cobot collabore activement avec un opérateur humain virtuel. Le robot exécute une tâche répétitive de prise et dépose de pièces en boucle sur une table de travail partagée. Grâce à l'intégration de capteurs de proximité dynamiques, la distance entre l'humain et le cobot est surveillée en temps réel conformément à la norme ISO 10218. Le système adapte la vitesse du robot (ralentissement progressif puis arrêt complet) selon la zone franchie, avant de reprendre sa tâche automatiquement une fois la sécurité rétablie.
 
 ## Lien GitHub / Scène CoppeliaSim
-* **Dépôt GitHub Public :** [URL_DE_VOTRE_DEPOT_ICI](https://github.com/) *(À remplacer par votre lien)*
+* **Dépôt GitHub Public :** [URL_DE_VOTRE_DEPOT_ICI](https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk) *(À remplacer par votre lien)*
 * **Fichier de la scène :** `scene_collabbot.ttt` *(Disponible à la racine du dépôt)*
 
 ## Capture / Vidéo de la simulation
-![Statut de la simulation](https://via.placeholder.com/800x450.png?text=Insérer+ici+une+capture+d+écran+ou+un+GIF+de+CoppeliaSim) 
+![Statut de la simulation](https://drive.google.com/file/d/1ylC86AG1KDoSUMGH0h37z7rugh9xfYK3/view?usp=drivesdk) 
 *(Rplacez ce lien par le chemin de votre capture d'écran ou de votre GIF une fois importé dans GitHub, ex: `images/simulation.gif`)*
 
 ## Composants / Modèles 3D utilisés
@@ -33,9 +33,6 @@ Le projet utilise les composants clés suivants au sein de CoppeliaSim :
 | **Pièces d'assemblage** | 5+ | Objets manipulés séquentiellement par l'effecteur (pince) du cobot |
 | **Script Python/Lua de sécurité** | 1 | Logique principale de contrôle d'impédance et de gestion des événements |
 | **UI Overlay (Interface)** | 1 | Affichage 2D du statut en temps réel : `NORMAL` (Vert), `ALERTE` (Orange), `ARRÊT` (Rouge) |
-
-## Le Cobot Franka FR3
-Le **Franka FR3** est un robot collaboratif (cobot) de pointe doté de 7 degrés de liberté (axes). Contrairement aux robots industriels classiques, il intègre des capteurs de couple extrêmement sensibles sur chacune de ses articulations. Cette technologie lui permet de ressentir les forces extérieures et de réagir au moindre contact humain. Dans notre simulation CoppeliaSim, sa flexibilité et sa cinématique avancée en font le candidat idéal pour manipuler le `Cuboid` sur la table de travail tout en garantissant une interaction fluide et sécurisée avec l'opérateur virtuel `Bill`.
 
 ## Conclusion
 Ce projet de certification nous a permis de concevoir, programmer et valider une cellule robotique collaborative conforme aux exigences strictes de la norme de sécurité industrielle **ISO 10218**. Grâce à l'environnement de simulation CoppeliaSim et au script Sandbox, notre groupe a réussi à orchestrer une synergie parfaite entre l'exécution d'une tâche industrielle (Pick & Place du cube) et la sécurité d'un opérateur humain. Cette expérience met en lumière les défis de la proxémique en robotique et l'importance cruciale de la programmation événementielle dans l'industrie.
