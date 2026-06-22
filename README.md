@@ -16,6 +16,8 @@ CollabBot simule une cellule industrielle automatisée et sécurisée où un cob
 ## Lien GitHub / Scène CoppeliaSim
 * **Dépôt GitHub Public :** [https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk](https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk)
 
+(https://github.dev/)
+
 ## Capture / Vidéo de la simulation
 ![https://drive.google.com/file/d/1ylC86AG1KDoSUMGH0h37z7rugh9xfYK3/view?usp=drivesdk](https://drive.google.com/file/d/1ylC86AG1KDoSUMGH0h37z7rugh9xfYK3/view?usp=drivesdk) 
 <img width="1365" height="722" alt="collabBot-Screen" src="https://github.com/user-attachments/assets/0188ddea-a7fa-431b-9e8a-7d2e5a6ec91f" /> 
