@@ -14,12 +14,11 @@
 CollabBot simule une cellule industrielle automatisée et sécurisée où un cobot collabore activement avec un opérateur humain virtuel. Le robot exécute une tâche répétitive de prise et dépose de pièces en boucle sur une table de travail partagée. Grâce à l'intégration de capteurs de proximité dynamiques, la distance entre l'humain et le cobot est surveillée en temps réel conformément à la norme ISO 10218. Le système adapte la vitesse du robot (ralentissement progressif puis arrêt complet) selon la zone franchie, avant de reprendre sa tâche automatiquement une fois la sécurité rétablie.
 
 ## Lien GitHub / Scène CoppeliaSim
-* **Dépôt GitHub Public :** [https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk](https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk) *(À remplacer par votre lien)*
-* **Fichier de la scène :** `scene_collabbot.ttt` *(Disponible à la racine du dépôt)*
+* **Dépôt GitHub Public :** [https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk](https://drive.google.com/file/d/1QflpbwY330M5ULykuFFfANesKITFCWj6/view?usp=drivesdk)
 
 ## Capture / Vidéo de la simulation
 ![https://drive.google.com/file/d/1ylC86AG1KDoSUMGH0h37z7rugh9xfYK3/view?usp=drivesdk](https://drive.google.com/file/d/1ylC86AG1KDoSUMGH0h37z7rugh9xfYK3/view?usp=drivesdk) 
-*(Rplacez ce lien par le chemin de votre capture d'écran ou de votre GIF une fois importé dans GitHub, ex: `images/simulation.gif`)*
+
 
 ## Composants / Modèles 3D utilisés
 Le projet utilise les composants clés suivants au sein de CoppeliaSim :
