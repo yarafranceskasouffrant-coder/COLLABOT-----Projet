@@ -7,7 +7,7 @@
 | Etienne Maxi Christopher | Chef de projet & Intégration de la scène CoppeliaSim |
 | Souffrant Yara Franceska | Responsable Documentation : Création et rédaction du fichier README.md |
 | Christopher O. Raisin | Amélioration apporter au projet |
-| Paul Laëka Nafawi | Présentation du groupe et des composants |
+| Paul Laëka Nafawi | Responsable Présentation du groupe et des composants |
 | Joseph Estha-Lenie S. | Conclusion |
 
 ## Description du projet
@@ -34,8 +34,8 @@ Le projet utilise les composants clés suivants au sein de CoppeliaSim :
 | **Script Python/Lua de sécurité** | 1 | Logique principale de contrôle d'impédance et de gestion des événements |
 | **UI Overlay (Interface)** | 1 | Affichage 2D du statut en temps réel : `NORMAL` (Vert), `ALERTE` (Orange), `ARRÊT` (Rouge) |
 
-## Focus Technique : Le Cobot Franka FR3
+## Le Cobot Franka FR3
 Le **Franka FR3** est un robot collaboratif (cobot) de pointe doté de 7 degrés de liberté (axes). Contrairement aux robots industriels classiques, il intègre des capteurs de couple extrêmement sensibles sur chacune de ses articulations. Cette technologie lui permet de ressentir les forces extérieures et de réagir au moindre contact humain. Dans notre simulation CoppeliaSim, sa flexibilité et sa cinématique avancée en font le candidat idéal pour manipuler le `Cuboid` sur la table de travail tout en garantissant une interaction fluide et sécurisée avec l'opérateur virtuel `Bill`.
 
 ## Conclusion
-Ce projet de certification nous a permis de concevoir, programmer et valider une cellule robotique collaborative conforme aux exigences strictes de la norme de sécurité industrielle **ISO 10218**. Grâce à l'environnement de simulation CoppeliaSim et au script Sandbox, le Groupe 5 a réussi à orchestrer une synergie parfaite entre l'exécution d'une tâche industrielle (Pick & Place du cube) et la sécurité d'un opérateur humain. Cette expérience met en lumière les défis de la proxémique en robotique et l'importance cruciale de la programmation événementielle dans l'industrie 4.0.
+Ce projet de certification nous a permis de concevoir, programmer et valider une cellule robotique collaborative conforme aux exigences strictes de la norme de sécurité industrielle **ISO 10218**. Grâce à l'environnement de simulation CoppeliaSim et au script Sandbox, notre groupe a réussi à orchestrer une synergie parfaite entre l'exécution d'une tâche industrielle (Pick & Place du cube) et la sécurité d'un opérateur humain. Cette expérience met en lumière les défis de la proxémique en robotique et l'importance cruciale de la programmation événementielle dans l'industrie.
